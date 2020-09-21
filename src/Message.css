@@ -1,0 +1,20 @@
+.message {
+  margin: 10px;
+  padding: 10px;
+  width: fit-content;
+}
+
+.message__user {
+  margin-left: auto;
+  color: #fff;
+  text-align: right;
+}
+
+.message__userCard {
+  background: #0b81ff !important;
+  color: #fff !important;
+}
+
+.message__guestCard {
+  background: #e9e9eb !important;
+}
